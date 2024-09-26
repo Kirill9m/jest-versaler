@@ -4,7 +4,7 @@ function versalerConventer(inputText){
     return a;
 }
 
-describe("Simple Jest test", () => {
+describe("VersalerConventerTest", () => {
     //Test case 1
 
     test("Test versaler", () => {
