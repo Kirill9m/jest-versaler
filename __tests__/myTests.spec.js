@@ -1,8 +1,4 @@
-function versalerConventer(inputText){
-    const a = inputText.toUpperCase();
-    console.log(a);
-    return a;
-}
+const { versalerConventer } = require('../myFunctionsToTest');
 
 describe("VersalerConventerTest", () => {
     //Test case 1
